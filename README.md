@@ -1,8 +1,12 @@
 ### 个人信息 | INFO
 
-<img src="https://github-readme-stats.vercel.app/api?username=hjl2011&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=hjl2011&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=hjl2011&show_icons=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjl2011&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hjl2011&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjl2011&layout=compact" />
+</a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=hjl2011" />
 
