@@ -1,6 +1,6 @@
 ### 个人信息 | INFO
 
-<a href="https://github.com/hjl2011">
+<a href="https://github.com/h2qwq">
   <img src="https://github-readme-stats.vercel.app/api?username=hjl2011&show_icons=true" />
 </a>
 
