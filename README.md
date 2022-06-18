@@ -1,6 +1,6 @@
 ### INFO
 
-- GPG key ID: 35B04D058BB7A5C5
+- GPG key ID: [`35B04D058BB7A5C5`](https://github.com/hjl2011.gpg)
 - Email : hjl2011@yeah.net
 
 ### GitHub Stats
